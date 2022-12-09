@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(97, 157, 189);
+}
+
+.tbm{
+    margin-left: 30%;
+}
+
+.whyyou{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.point{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.airplanes{
+    color: rgb(202, 113, 11);
+}
+
+.list{
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(185, 16, 16);
+}
+
+.whyyou:hover{
+    font-weight: bold;
+}
+
+.point:hover{
+    font-weight: bold;
+}
+
+.content{
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+.content2{
+    margin-bottom: 15px;
+    margin-left: 45px;
+}
+
+.content3{
+    margin-top: 25px;
+    margin-left: 95px;
+}
+
+.tableauPlaceholder{
+    margin-right: 20px;
+}
